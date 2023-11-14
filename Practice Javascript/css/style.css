@@ -1,0 +1,21 @@
+@import url("../css/zero_styles.css");
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: rgb(71, 71, 71);
+  height: 100vh;
+  color: #fff;
+  gap: 5px;
+}
+.container h1 {
+  font-size: 32px;
+  line-height: 46px;
+  font-weight: 700;
+}
+button {
+  width: 150px;
+  height: 50px;
+  background-color: darkgrey;
+  border-radius: 5px;
+}
